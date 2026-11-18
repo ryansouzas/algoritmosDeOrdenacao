@@ -98,7 +98,3 @@ Resumo: em n = 50.000, MergeSort e QuickSort ordenam em dezenas de milissegundos
 - Erick Mauricio Soares Almeida
 - Nelson Francisco Suassuna Neto
 - Lucas Andrade Velozo Andriola
-
-## Autoria
-
-Os algoritmos-base são de autoria de Hilario Tomaz Alves de Oliveira (professor), conforme os `@author` nos arquivos.
